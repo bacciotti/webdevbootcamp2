@@ -1,6 +1,5 @@
 # The Webdev Bootcamp - Part Two
 Code made in the WebDev Bootcamp course from Udemy - [Colt Steele](https://twitter.com/codecolt).  
-This is just the commit of my first files from the course.  
 You can access the entire course [here](https://www.udemy.com/the-web-developer-bootcamp/).  
 Take a look at Part One [here](https://github.com/bacciotti/webdevbootcamp1).
 
